@@ -1,0 +1,3 @@
+kernel = "vmling"
+name = "lfe-ling"
+memory = 512
